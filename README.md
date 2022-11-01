@@ -4,7 +4,7 @@
 
 
 An Optical Character Recognition is a software that can recognize characters 
-from an image  it is widely used in robotics and implemented in Google lenses app!
+from an image  it is widely used in robotics and implemented in Google lens app!
 
   #An OCR contain three parts:
   
